@@ -1,0 +1,1001 @@
+Customer ID,City,Loyalty Tier
+CUST001,Los Angeles,Bronze
+CUST002,Phoenix,Silver
+CUST003,Houston,Silver
+CUST004,Los Angeles,Bronze
+CUST005,Austin,Platinum
+CUST006,New York,Bronze
+CUST007,Los Angeles,Silver
+CUST008,Houston,Bronze
+CUST009,Dallas,Silver
+CUST010,Dallas,Platinum
+CUST011,Houston,Platinum
+CUST012,Austin,Gold
+CUST013,New York,Silver
+CUST014,San Antonio,Gold
+CUST015,Phoenix,Silver
+CUST016,Houston,Gold
+CUST017,Los Angeles,Bronze
+CUST018,San Antonio,Bronze
+CUST019,Philadelphia,Gold
+CUST020,Austin,Gold
+CUST021,New York,Platinum
+CUST022,Dallas,Bronze
+CUST023,San Antonio,Bronze
+CUST024,Dallas,Gold
+CUST025,Austin,Gold
+CUST026,Austin,Silver
+CUST027,Los Angeles,Bronze
+CUST028,Houston,Gold
+CUST029,Los Angeles,Silver
+CUST030,Los Angeles,Platinum
+CUST031,Phoenix,Platinum
+CUST032,Philadelphia,Silver
+CUST033,Philadelphia,Gold
+CUST034,Houston,Gold
+CUST035,Los Angeles,Silver
+CUST036,Dallas,Silver
+CUST037,Chicago,Platinum
+CUST038,San Antonio,Gold
+CUST039,Dallas,Silver
+CUST040,Philadelphia,Bronze
+CUST041,Houston,Bronze
+CUST042,Philadelphia,Platinum
+CUST043,Phoenix,Bronze
+CUST044,Houston,Gold
+CUST045,Houston,Platinum
+CUST046,San Antonio,Platinum
+CUST047,Chicago,Gold
+CUST048,Chicago,Silver
+CUST049,Dallas,Gold
+CUST050,Austin,Platinum
+CUST051,Austin,Platinum
+CUST052,Philadelphia,Silver
+CUST053,Chicago,Platinum
+CUST054,Los Angeles,Bronze
+CUST055,Los Angeles,Silver
+CUST056,Chicago,Platinum
+CUST057,Austin,Bronze
+CUST058,San Antonio,Platinum
+CUST059,Austin,Platinum
+CUST060,Dallas,Gold
+CUST061,Dallas,Bronze
+CUST062,Los Angeles,Gold
+CUST063,Philadelphia,Bronze
+CUST064,Phoenix,Platinum
+CUST065,Chicago,Platinum
+CUST066,New York,Gold
+CUST067,Dallas,Silver
+CUST068,Dallas,Bronze
+CUST069,Phoenix,Silver
+CUST070,Chicago,Gold
+CUST071,Chicago,Bronze
+CUST072,Austin,Gold
+CUST073,San Diego,Bronze
+CUST074,Los Angeles,Gold
+CUST075,Phoenix,Silver
+CUST076,New York,Silver
+CUST077,Austin,Bronze
+CUST078,Los Angeles,Platinum
+CUST079,Los Angeles,Silver
+CUST080,Chicago,Platinum
+CUST081,Dallas,Silver
+CUST082,Phoenix,Platinum
+CUST083,Houston,Silver
+CUST084,Phoenix,Platinum
+CUST085,Philadelphia,Platinum
+CUST086,Dallas,Platinum
+CUST087,Los Angeles,Silver
+CUST088,Houston,Bronze
+CUST089,Philadelphia,Bronze
+CUST090,Austin,Silver
+CUST091,Austin,Silver
+CUST092,New York,Bronze
+CUST093,New York,Silver
+CUST094,Los Angeles,Bronze
+CUST095,Philadelphia,Bronze
+CUST096,Dallas,Silver
+CUST097,Phoenix,Platinum
+CUST098,Houston,Silver
+CUST099,Austin,Platinum
+CUST100,Houston,Platinum
+CUST101,San Antonio,Silver
+CUST102,Los Angeles,Bronze
+CUST103,San Antonio,Gold
+CUST104,San Antonio,Platinum
+CUST105,San Diego,Bronze
+CUST106,Los Angeles,Bronze
+CUST107,San Antonio,Gold
+CUST108,Los Angeles,Silver
+CUST109,Houston,Silver
+CUST110,Dallas,Platinum
+CUST111,Chicago,Platinum
+CUST112,Chicago,Gold
+CUST113,San Diego,Silver
+CUST114,Los Angeles,Platinum
+CUST115,Dallas,Bronze
+CUST116,New York,Bronze
+CUST117,Los Angeles,Silver
+CUST118,Chicago,Platinum
+CUST119,San Diego,Platinum
+CUST120,Houston,Platinum
+CUST121,New York,Silver
+CUST122,San Antonio,Bronze
+CUST123,San Antonio,Gold
+CUST124,San Diego,Gold
+CUST125,San Antonio,Platinum
+CUST126,Chicago,Silver
+CUST127,Phoenix,Silver
+CUST128,New York,Bronze
+CUST129,Philadelphia,Bronze
+CUST130,New York,Platinum
+CUST131,Dallas,Silver
+CUST132,New York,Bronze
+CUST133,Chicago,Bronze
+CUST134,Austin,Bronze
+CUST135,Houston,Platinum
+CUST136,Los Angeles,Silver
+CUST137,Austin,Bronze
+CUST138,Austin,Bronze
+CUST139,San Antonio,Gold
+CUST140,Phoenix,Silver
+CUST141,Philadelphia,Silver
+CUST142,Phoenix,Platinum
+CUST143,Chicago,Gold
+CUST144,San Diego,Gold
+CUST145,Los Angeles,Bronze
+CUST146,San Diego,Bronze
+CUST147,Los Angeles,Silver
+CUST148,Dallas,Gold
+CUST149,Chicago,Gold
+CUST150,Los Angeles,Silver
+CUST151,Philadelphia,Gold
+CUST152,Chicago,Platinum
+CUST153,Dallas,Gold
+CUST154,Austin,Bronze
+CUST155,Dallas,Gold
+CUST156,Los Angeles,Silver
+CUST157,Phoenix,Bronze
+CUST158,Los Angeles,Silver
+CUST159,Phoenix,Gold
+CUST160,Austin,Silver
+CUST161,Philadelphia,Silver
+CUST162,Phoenix,Platinum
+CUST163,Phoenix,Bronze
+CUST164,Los Angeles,Platinum
+CUST165,Phoenix,Bronze
+CUST166,New York,Gold
+CUST167,Chicago,Gold
+CUST168,Chicago,Platinum
+CUST169,Dallas,Platinum
+CUST170,Dallas,Bronze
+CUST171,Los Angeles,Bronze
+CUST172,Chicago,Bronze
+CUST173,Philadelphia,Silver
+CUST174,San Antonio,Silver
+CUST175,New York,Gold
+CUST176,Philadelphia,Bronze
+CUST177,Philadelphia,Silver
+CUST178,Houston,Bronze
+CUST179,Philadelphia,Platinum
+CUST180,Austin,Silver
+CUST181,Houston,Silver
+CUST182,Chicago,Platinum
+CUST183,New York,Silver
+CUST184,Philadelphia,Platinum
+CUST185,Houston,Gold
+CUST186,Chicago,Bronze
+CUST187,San Antonio,Bronze
+CUST188,San Diego,Silver
+CUST189,Houston,Platinum
+CUST190,Philadelphia,Gold
+CUST191,Houston,Silver
+CUST192,New York,Silver
+CUST193,San Antonio,Gold
+CUST194,Phoenix,Bronze
+CUST195,Phoenix,Gold
+CUST196,Dallas,Platinum
+CUST197,Dallas,Gold
+CUST198,New York,Bronze
+CUST199,Phoenix,Silver
+CUST200,Austin,Gold
+CUST201,New York,Bronze
+CUST202,Austin,Platinum
+CUST203,Philadelphia,Gold
+CUST204,San Antonio,Bronze
+CUST205,San Antonio,Silver
+CUST206,Phoenix,Bronze
+CUST207,San Antonio,Bronze
+CUST208,Dallas,Silver
+CUST209,Philadelphia,Platinum
+CUST210,Los Angeles,Gold
+CUST211,Austin,Gold
+CUST212,Los Angeles,Gold
+CUST213,Dallas,Gold
+CUST214,San Antonio,Gold
+CUST215,San Antonio,Gold
+CUST216,Dallas,Silver
+CUST217,Houston,Platinum
+CUST218,San Antonio,Silver
+CUST219,Austin,Gold
+CUST220,San Antonio,Bronze
+CUST221,Phoenix,Gold
+CUST222,Houston,Platinum
+CUST223,Austin,Gold
+CUST224,San Diego,Platinum
+CUST225,San Diego,Silver
+CUST226,Dallas,Platinum
+CUST227,Chicago,Bronze
+CUST228,Phoenix,Gold
+CUST229,Los Angeles,Silver
+CUST230,Phoenix,Silver
+CUST231,Houston,Silver
+CUST232,New York,Bronze
+CUST233,Houston,Platinum
+CUST234,Austin,Bronze
+CUST235,San Diego,Platinum
+CUST236,Austin,Silver
+CUST237,San Antonio,Platinum
+CUST238,San Antonio,Silver
+CUST239,Chicago,Bronze
+CUST240,Los Angeles,Platinum
+CUST241,Houston,Silver
+CUST242,Dallas,Platinum
+CUST243,New York,Silver
+CUST244,Los Angeles,Platinum
+CUST245,Chicago,Platinum
+CUST246,Dallas,Gold
+CUST247,San Diego,Platinum
+CUST248,Dallas,Platinum
+CUST249,Chicago,Platinum
+CUST250,San Diego,Gold
+CUST251,Houston,Gold
+CUST252,Dallas,Platinum
+CUST253,Houston,Gold
+CUST254,San Diego,Bronze
+CUST255,Phoenix,Silver
+CUST256,Phoenix,Gold
+CUST257,Philadelphia,Bronze
+CUST258,Chicago,Silver
+CUST259,Houston,Platinum
+CUST260,Chicago,Silver
+CUST261,Los Angeles,Platinum
+CUST262,San Antonio,Gold
+CUST263,Dallas,Platinum
+CUST264,San Antonio,Bronze
+CUST265,Houston,Platinum
+CUST266,San Antonio,Bronze
+CUST267,Austin,Platinum
+CUST268,San Diego,Bronze
+CUST269,Philadelphia,Gold
+CUST270,San Antonio,Platinum
+CUST271,Dallas,Silver
+CUST272,San Diego,Silver
+CUST273,Phoenix,Platinum
+CUST274,San Diego,Bronze
+CUST275,San Antonio,Gold
+CUST276,San Antonio,Silver
+CUST277,San Diego,Silver
+CUST278,Austin,Bronze
+CUST279,San Antonio,Bronze
+CUST280,Los Angeles,Platinum
+CUST281,Chicago,Platinum
+CUST282,Chicago,Bronze
+CUST283,Phoenix,Platinum
+CUST284,Philadelphia,Silver
+CUST285,San Diego,Gold
+CUST286,Philadelphia,Platinum
+CUST287,Phoenix,Platinum
+CUST288,Phoenix,Bronze
+CUST289,San Diego,Bronze
+CUST290,Dallas,Bronze
+CUST291,Philadelphia,Silver
+CUST292,Los Angeles,Bronze
+CUST293,New York,Silver
+CUST294,Houston,Bronze
+CUST295,Austin,Silver
+CUST296,Houston,Silver
+CUST297,San Diego,Bronze
+CUST298,Austin,Silver
+CUST299,San Diego,Gold
+CUST300,Philadelphia,Silver
+CUST301,Austin,Bronze
+CUST302,Chicago,Gold
+CUST303,Los Angeles,Bronze
+CUST304,Phoenix,Platinum
+CUST305,San Antonio,Silver
+CUST306,Los Angeles,Silver
+CUST307,Los Angeles,Gold
+CUST308,Austin,Bronze
+CUST309,Austin,Bronze
+CUST310,Philadelphia,Platinum
+CUST311,Philadelphia,Bronze
+CUST312,Dallas,Gold
+CUST313,New York,Platinum
+CUST314,San Diego,Bronze
+CUST315,San Antonio,Gold
+CUST316,San Diego,Silver
+CUST317,San Antonio,Silver
+CUST318,Dallas,Gold
+CUST319,Austin,Platinum
+CUST320,San Diego,Platinum
+CUST321,Austin,Gold
+CUST322,Philadelphia,Silver
+CUST323,Los Angeles,Gold
+CUST324,San Diego,Silver
+CUST325,San Diego,Platinum
+CUST326,Philadelphia,Bronze
+CUST327,San Diego,Gold
+CUST328,Chicago,Platinum
+CUST329,Houston,Gold
+CUST330,Phoenix,Gold
+CUST331,Phoenix,Gold
+CUST332,Dallas,Bronze
+CUST333,Dallas,Silver
+CUST334,Los Angeles,Silver
+CUST335,San Antonio,Platinum
+CUST336,Dallas,Silver
+CUST337,San Diego,Platinum
+CUST338,San Diego,Bronze
+CUST339,Los Angeles,Gold
+CUST340,Houston,Platinum
+CUST341,Houston,Gold
+CUST342,Austin,Gold
+CUST343,San Diego,Gold
+CUST344,San Antonio,Gold
+CUST345,Philadelphia,Platinum
+CUST346,Phoenix,Gold
+CUST347,Phoenix,Silver
+CUST348,Los Angeles,Silver
+CUST349,Philadelphia,Bronze
+CUST350,Dallas,Silver
+CUST351,Houston,Silver
+CUST352,San Diego,Gold
+CUST353,Austin,Gold
+CUST354,Los Angeles,Silver
+CUST355,Phoenix,Silver
+CUST356,Philadelphia,Silver
+CUST357,Phoenix,Bronze
+CUST358,Dallas,Silver
+CUST359,Phoenix,Bronze
+CUST360,New York,Gold
+CUST361,Chicago,Platinum
+CUST362,Los Angeles,Bronze
+CUST363,Austin,Gold
+CUST364,San Diego,Platinum
+CUST365,San Diego,Gold
+CUST366,Chicago,Bronze
+CUST367,Phoenix,Platinum
+CUST368,Los Angeles,Bronze
+CUST369,San Antonio,Platinum
+CUST370,Los Angeles,Bronze
+CUST371,Chicago,Silver
+CUST372,Austin,Gold
+CUST373,Los Angeles,Silver
+CUST374,Los Angeles,Platinum
+CUST375,Austin,Silver
+CUST376,Dallas,Platinum
+CUST377,San Diego,Platinum
+CUST378,Phoenix,Platinum
+CUST379,Phoenix,Bronze
+CUST380,Austin,Bronze
+CUST381,Houston,Silver
+CUST382,Phoenix,Bronze
+CUST383,Chicago,Silver
+CUST384,Chicago,Bronze
+CUST385,Chicago,Bronze
+CUST386,San Antonio,Platinum
+CUST387,Austin,Platinum
+CUST388,Phoenix,Bronze
+CUST389,Houston,Gold
+CUST390,Phoenix,Platinum
+CUST391,Los Angeles,Silver
+CUST392,Phoenix,Silver
+CUST393,San Antonio,Bronze
+CUST394,Dallas,Silver
+CUST395,Chicago,Gold
+CUST396,Chicago,Bronze
+CUST397,New York,Silver
+CUST398,Phoenix,Gold
+CUST399,San Diego,Bronze
+CUST400,San Diego,Gold
+CUST401,San Antonio,Gold
+CUST402,Dallas,Platinum
+CUST403,San Diego,Bronze
+CUST404,Austin,Bronze
+CUST405,San Antonio,Gold
+CUST406,Austin,Gold
+CUST407,New York,Bronze
+CUST408,Houston,Bronze
+CUST409,Phoenix,Bronze
+CUST410,Chicago,Platinum
+CUST411,Dallas,Platinum
+CUST412,Phoenix,Silver
+CUST413,Austin,Platinum
+CUST414,San Diego,Bronze
+CUST415,San Diego,Gold
+CUST416,San Antonio,Gold
+CUST417,Philadelphia,Bronze
+CUST418,Chicago,Gold
+CUST419,San Antonio,Platinum
+CUST420,Phoenix,Platinum
+CUST421,Dallas,Bronze
+CUST422,San Diego,Bronze
+CUST423,Philadelphia,Gold
+CUST424,Philadelphia,Bronze
+CUST425,San Antonio,Bronze
+CUST426,Dallas,Platinum
+CUST427,San Antonio,Bronze
+CUST428,Houston,Gold
+CUST429,Austin,Platinum
+CUST430,San Diego,Bronze
+CUST431,Houston,Gold
+CUST432,Dallas,Silver
+CUST433,Phoenix,Platinum
+CUST434,San Diego,Bronze
+CUST435,New York,Silver
+CUST436,Chicago,Gold
+CUST437,Dallas,Bronze
+CUST438,Dallas,Platinum
+CUST439,Los Angeles,Silver
+CUST440,Los Angeles,Platinum
+CUST441,Los Angeles,Silver
+CUST442,San Diego,Gold
+CUST443,Dallas,Gold
+CUST444,San Antonio,Platinum
+CUST445,San Diego,Silver
+CUST446,San Diego,Silver
+CUST447,San Antonio,Silver
+CUST448,Austin,Silver
+CUST449,Los Angeles,Gold
+CUST450,San Antonio,Gold
+CUST451,Dallas,Gold
+CUST452,New York,Gold
+CUST453,Phoenix,Platinum
+CUST454,Chicago,Platinum
+CUST455,Dallas,Platinum
+CUST456,Philadelphia,Gold
+CUST457,Dallas,Platinum
+CUST458,San Diego,Gold
+CUST459,Houston,Silver
+CUST460,Austin,Platinum
+CUST461,Houston,Platinum
+CUST462,New York,Gold
+CUST463,San Diego,Platinum
+CUST464,San Antonio,Silver
+CUST465,San Diego,Bronze
+CUST466,Chicago,Gold
+CUST467,Los Angeles,Platinum
+CUST468,Los Angeles,Platinum
+CUST469,New York,Silver
+CUST470,San Antonio,Silver
+CUST471,Los Angeles,Platinum
+CUST472,Phoenix,Gold
+CUST473,Austin,Platinum
+CUST474,Los Angeles,Gold
+CUST475,Dallas,Platinum
+CUST476,Philadelphia,Platinum
+CUST477,Dallas,Bronze
+CUST478,Austin,Bronze
+CUST479,Houston,Gold
+CUST480,Houston,Bronze
+CUST481,San Antonio,Bronze
+CUST482,Los Angeles,Platinum
+CUST483,Chicago,Gold
+CUST484,New York,Bronze
+CUST485,Philadelphia,Bronze
+CUST486,Phoenix,Gold
+CUST487,Philadelphia,Platinum
+CUST488,Chicago,Silver
+CUST489,Dallas,Platinum
+CUST490,Austin,Silver
+CUST491,Chicago,Silver
+CUST492,Los Angeles,Platinum
+CUST493,Austin,Silver
+CUST494,San Diego,Silver
+CUST495,Houston,Platinum
+CUST496,Phoenix,Platinum
+CUST497,Phoenix,Bronze
+CUST498,San Diego,Gold
+CUST499,Dallas,Silver
+CUST500,Los Angeles,Platinum
+CUST501,Philadelphia,Gold
+CUST502,San Antonio,Gold
+CUST503,San Diego,Gold
+CUST504,Houston,Platinum
+CUST505,San Diego,Bronze
+CUST506,Houston,Platinum
+CUST507,Austin,Gold
+CUST508,Austin,Gold
+CUST509,Phoenix,Bronze
+CUST510,San Antonio,Gold
+CUST511,New York,Bronze
+CUST512,Austin,Platinum
+CUST513,Phoenix,Silver
+CUST514,Austin,Gold
+CUST515,Houston,Silver
+CUST516,Austin,Gold
+CUST517,Chicago,Bronze
+CUST518,New York,Gold
+CUST519,San Diego,Bronze
+CUST520,Austin,Gold
+CUST521,Chicago,Bronze
+CUST522,Phoenix,Gold
+CUST523,San Antonio,Silver
+CUST524,Houston,Silver
+CUST525,Dallas,Gold
+CUST526,Dallas,Gold
+CUST527,Chicago,Gold
+CUST528,San Diego,Gold
+CUST529,Philadelphia,Bronze
+CUST530,San Diego,Bronze
+CUST531,Chicago,Silver
+CUST532,San Antonio,Gold
+CUST533,Los Angeles,Platinum
+CUST534,New York,Gold
+CUST535,Dallas,Bronze
+CUST536,San Diego,Gold
+CUST537,Phoenix,Platinum
+CUST538,Philadelphia,Bronze
+CUST539,Houston,Platinum
+CUST540,New York,Gold
+CUST541,Austin,Silver
+CUST542,Los Angeles,Platinum
+CUST543,Phoenix,Platinum
+CUST544,Los Angeles,Silver
+CUST545,New York,Bronze
+CUST546,Phoenix,Platinum
+CUST547,Los Angeles,Bronze
+CUST548,Houston,Silver
+CUST549,San Antonio,Platinum
+CUST550,Philadelphia,Platinum
+CUST551,Austin,Silver
+CUST552,San Antonio,Bronze
+CUST553,San Diego,Platinum
+CUST554,Phoenix,Bronze
+CUST555,Philadelphia,Silver
+CUST556,San Diego,Platinum
+CUST557,Houston,Gold
+CUST558,Los Angeles,Gold
+CUST559,Dallas,Gold
+CUST560,New York,Platinum
+CUST561,Phoenix,Silver
+CUST562,Los Angeles,Platinum
+CUST563,Los Angeles,Silver
+CUST564,Austin,Bronze
+CUST565,New York,Gold
+CUST566,Houston,Silver
+CUST567,Austin,Silver
+CUST568,Los Angeles,Silver
+CUST569,Austin,Silver
+CUST570,Houston,Gold
+CUST571,Chicago,Bronze
+CUST572,Phoenix,Silver
+CUST573,Chicago,Gold
+CUST574,Chicago,Bronze
+CUST575,New York,Silver
+CUST576,New York,Gold
+CUST577,Houston,Gold
+CUST578,New York,Silver
+CUST579,Phoenix,Bronze
+CUST580,Chicago,Platinum
+CUST581,Dallas,Bronze
+CUST582,Los Angeles,Platinum
+CUST583,San Diego,Gold
+CUST584,Dallas,Bronze
+CUST585,San Diego,Silver
+CUST586,Austin,Bronze
+CUST587,Dallas,Gold
+CUST588,San Diego,Bronze
+CUST589,New York,Platinum
+CUST590,San Antonio,Platinum
+CUST591,Los Angeles,Platinum
+CUST592,San Diego,Bronze
+CUST593,Los Angeles,Gold
+CUST594,Austin,Silver
+CUST595,Los Angeles,Silver
+CUST596,Phoenix,Gold
+CUST597,San Antonio,Gold
+CUST598,San Diego,Platinum
+CUST599,Los Angeles,Bronze
+CUST600,Dallas,Silver
+CUST601,San Antonio,Platinum
+CUST602,Houston,Platinum
+CUST603,Philadelphia,Platinum
+CUST604,San Antonio,Platinum
+CUST605,Los Angeles,Gold
+CUST606,San Antonio,Gold
+CUST607,Phoenix,Gold
+CUST608,Chicago,Platinum
+CUST609,Los Angeles,Bronze
+CUST610,Los Angeles,Bronze
+CUST611,San Antonio,Bronze
+CUST612,Philadelphia,Silver
+CUST613,Dallas,Bronze
+CUST614,Austin,Gold
+CUST615,Los Angeles,Platinum
+CUST616,Philadelphia,Platinum
+CUST617,New York,Gold
+CUST618,Austin,Gold
+CUST619,Philadelphia,Bronze
+CUST620,Austin,Silver
+CUST621,Chicago,Platinum
+CUST622,Houston,Bronze
+CUST623,Philadelphia,Gold
+CUST624,Los Angeles,Gold
+CUST625,Austin,Silver
+CUST626,San Antonio,Bronze
+CUST627,Austin,Gold
+CUST628,New York,Silver
+CUST629,Phoenix,Gold
+CUST630,Philadelphia,Gold
+CUST631,New York,Silver
+CUST632,Chicago,Platinum
+CUST633,Los Angeles,Silver
+CUST634,New York,Bronze
+CUST635,Dallas,Silver
+CUST636,San Antonio,Platinum
+CUST637,San Diego,Gold
+CUST638,Chicago,Gold
+CUST639,Phoenix,Gold
+CUST640,Austin,Bronze
+CUST641,New York,Silver
+CUST642,Chicago,Bronze
+CUST643,Los Angeles,Gold
+CUST644,San Diego,Platinum
+CUST645,San Diego,Platinum
+CUST646,San Antonio,Gold
+CUST647,Houston,Bronze
+CUST648,Philadelphia,Platinum
+CUST649,Los Angeles,Gold
+CUST650,Austin,Platinum
+CUST651,Dallas,Gold
+CUST652,New York,Silver
+CUST653,San Antonio,Bronze
+CUST654,New York,Silver
+CUST655,Phoenix,Silver
+CUST656,Chicago,Gold
+CUST657,Phoenix,Gold
+CUST658,Los Angeles,Bronze
+CUST659,San Diego,Platinum
+CUST660,Chicago,Silver
+CUST661,San Antonio,Silver
+CUST662,Dallas,Gold
+CUST663,Los Angeles,Platinum
+CUST664,New York,Platinum
+CUST665,New York,Platinum
+CUST666,Los Angeles,Gold
+CUST667,Austin,Platinum
+CUST668,Austin,Platinum
+CUST669,San Antonio,Gold
+CUST670,Los Angeles,Platinum
+CUST671,New York,Gold
+CUST672,Chicago,Platinum
+CUST673,Philadelphia,Bronze
+CUST674,San Antonio,Bronze
+CUST675,Houston,Platinum
+CUST676,Austin,Platinum
+CUST677,Dallas,Bronze
+CUST678,San Antonio,Gold
+CUST679,Philadelphia,Silver
+CUST680,Philadelphia,Silver
+CUST681,Los Angeles,Bronze
+CUST682,Dallas,Silver
+CUST683,Philadelphia,Gold
+CUST684,Chicago,Silver
+CUST685,Los Angeles,Silver
+CUST686,Phoenix,Silver
+CUST687,Chicago,Silver
+CUST688,Los Angeles,Silver
+CUST689,San Diego,Platinum
+CUST690,Austin,Platinum
+CUST691,Austin,Gold
+CUST692,Philadelphia,Silver
+CUST693,San Diego,Bronze
+CUST694,San Diego,Platinum
+CUST695,Phoenix,Gold
+CUST696,Austin,Bronze
+CUST697,Philadelphia,Bronze
+CUST698,Phoenix,Platinum
+CUST699,San Diego,Bronze
+CUST700,New York,Gold
+CUST701,Phoenix,Bronze
+CUST702,Los Angeles,Platinum
+CUST703,San Diego,Bronze
+CUST704,San Diego,Silver
+CUST705,Philadelphia,Platinum
+CUST706,Dallas,Silver
+CUST707,New York,Platinum
+CUST708,Los Angeles,Gold
+CUST709,Los Angeles,Silver
+CUST710,New York,Silver
+CUST711,San Diego,Platinum
+CUST712,Dallas,Silver
+CUST713,Philadelphia,Gold
+CUST714,Phoenix,Platinum
+CUST715,San Antonio,Gold
+CUST716,Austin,Bronze
+CUST717,Philadelphia,Bronze
+CUST718,Philadelphia,Bronze
+CUST719,Dallas,Platinum
+CUST720,Phoenix,Gold
+CUST721,Austin,Silver
+CUST722,Philadelphia,Bronze
+CUST723,Austin,Silver
+CUST724,Philadelphia,Gold
+CUST725,San Antonio,Silver
+CUST726,Austin,Bronze
+CUST727,Phoenix,Platinum
+CUST728,Philadelphia,Silver
+CUST729,Dallas,Bronze
+CUST730,San Antonio,Gold
+CUST731,New York,Gold
+CUST732,Phoenix,Silver
+CUST733,Houston,Gold
+CUST734,San Diego,Silver
+CUST735,Houston,Silver
+CUST736,Chicago,Bronze
+CUST737,Phoenix,Bronze
+CUST738,Dallas,Bronze
+CUST739,Philadelphia,Silver
+CUST740,Austin,Platinum
+CUST741,Chicago,Silver
+CUST742,Chicago,Silver
+CUST743,San Diego,Bronze
+CUST744,San Antonio,Gold
+CUST745,Houston,Platinum
+CUST746,Austin,Gold
+CUST747,San Diego,Silver
+CUST748,Dallas,Silver
+CUST749,Phoenix,Platinum
+CUST750,Houston,Gold
+CUST751,Austin,Platinum
+CUST752,San Diego,Gold
+CUST753,San Antonio,Platinum
+CUST754,Chicago,Silver
+CUST755,Austin,Silver
+CUST756,Phoenix,Bronze
+CUST757,San Diego,Gold
+CUST758,Dallas,Bronze
+CUST759,Dallas,Bronze
+CUST760,Phoenix,Bronze
+CUST761,Chicago,Gold
+CUST762,San Diego,Silver
+CUST763,San Antonio,Bronze
+CUST764,Houston,Platinum
+CUST765,Philadelphia,Bronze
+CUST766,San Antonio,Bronze
+CUST767,San Antonio,Gold
+CUST768,Houston,Platinum
+CUST769,Los Angeles,Gold
+CUST770,Houston,Bronze
+CUST771,Philadelphia,Bronze
+CUST772,Philadelphia,Silver
+CUST773,Chicago,Bronze
+CUST774,Phoenix,Platinum
+CUST775,Chicago,Platinum
+CUST776,San Diego,Bronze
+CUST777,Los Angeles,Bronze
+CUST778,Phoenix,Silver
+CUST779,Chicago,Platinum
+CUST780,Los Angeles,Gold
+CUST781,Houston,Gold
+CUST782,Los Angeles,Bronze
+CUST783,Houston,Platinum
+CUST784,Austin,Platinum
+CUST785,Los Angeles,Bronze
+CUST786,San Diego,Bronze
+CUST787,Dallas,Silver
+CUST788,Chicago,Gold
+CUST789,San Antonio,Bronze
+CUST790,Austin,Gold
+CUST791,Houston,Platinum
+CUST792,Chicago,Bronze
+CUST793,Dallas,Gold
+CUST794,Los Angeles,Bronze
+CUST795,San Antonio,Platinum
+CUST796,New York,Platinum
+CUST797,Philadelphia,Gold
+CUST798,New York,Gold
+CUST799,Los Angeles,Gold
+CUST800,Houston,Bronze
+CUST801,Austin,Gold
+CUST802,Chicago,Bronze
+CUST803,Philadelphia,Gold
+CUST804,Chicago,Platinum
+CUST805,San Diego,Silver
+CUST806,Chicago,Bronze
+CUST807,San Diego,Bronze
+CUST808,Phoenix,Silver
+CUST809,New York,Silver
+CUST810,New York,Gold
+CUST811,Phoenix,Platinum
+CUST812,Dallas,Platinum
+CUST813,Phoenix,Bronze
+CUST814,Houston,Gold
+CUST815,Philadelphia,Bronze
+CUST816,Philadelphia,Gold
+CUST817,Los Angeles,Gold
+CUST818,San Antonio,Platinum
+CUST819,San Diego,Platinum
+CUST820,Philadelphia,Silver
+CUST821,San Diego,Platinum
+CUST822,Philadelphia,Gold
+CUST823,Los Angeles,Platinum
+CUST824,Los Angeles,Platinum
+CUST825,Austin,Silver
+CUST826,Dallas,Gold
+CUST827,Philadelphia,Bronze
+CUST828,Los Angeles,Gold
+CUST829,Phoenix,Gold
+CUST830,San Diego,Platinum
+CUST831,Chicago,Platinum
+CUST832,Philadelphia,Platinum
+CUST833,New York,Gold
+CUST834,Austin,Platinum
+CUST835,Phoenix,Bronze
+CUST836,Los Angeles,Platinum
+CUST837,Philadelphia,Silver
+CUST838,New York,Silver
+CUST839,Austin,Platinum
+CUST840,New York,Silver
+CUST841,Los Angeles,Silver
+CUST842,Philadelphia,Gold
+CUST843,San Antonio,Bronze
+CUST844,Austin,Silver
+CUST845,San Diego,Gold
+CUST846,Philadelphia,Platinum
+CUST847,Los Angeles,Silver
+CUST848,Dallas,Gold
+CUST849,San Antonio,Gold
+CUST850,Phoenix,Silver
+CUST851,Los Angeles,Bronze
+CUST852,Chicago,Platinum
+CUST853,Dallas,Platinum
+CUST854,Dallas,Bronze
+CUST855,Phoenix,Gold
+CUST856,San Diego,Silver
+CUST857,Austin,Gold
+CUST858,San Diego,Silver
+CUST859,Los Angeles,Silver
+CUST860,Los Angeles,Platinum
+CUST861,Chicago,Platinum
+CUST862,Los Angeles,Gold
+CUST863,Philadelphia,Bronze
+CUST864,Dallas,Gold
+CUST865,Phoenix,Silver
+CUST866,Chicago,Gold
+CUST867,Dallas,Silver
+CUST868,Los Angeles,Silver
+CUST869,Chicago,Silver
+CUST870,San Diego,Bronze
+CUST871,Philadelphia,Gold
+CUST872,San Diego,Silver
+CUST873,Austin,Bronze
+CUST874,Los Angeles,Gold
+CUST875,San Antonio,Platinum
+CUST876,Dallas,Platinum
+CUST877,San Antonio,Bronze
+CUST878,Chicago,Gold
+CUST879,Los Angeles,Platinum
+CUST880,San Diego,Gold
+CUST881,Chicago,Silver
+CUST882,Chicago,Platinum
+CUST883,Dallas,Bronze
+CUST884,Los Angeles,Silver
+CUST885,Phoenix,Silver
+CUST886,Chicago,Gold
+CUST887,Houston,Gold
+CUST888,Dallas,Gold
+CUST889,Los Angeles,Gold
+CUST890,Houston,Gold
+CUST891,Chicago,Gold
+CUST892,Austin,Bronze
+CUST893,Dallas,Silver
+CUST894,Austin,Silver
+CUST895,Chicago,Gold
+CUST896,Austin,Bronze
+CUST897,New York,Bronze
+CUST898,New York,Gold
+CUST899,Houston,Platinum
+CUST900,Austin,Bronze
+CUST901,San Diego,Gold
+CUST902,Phoenix,Platinum
+CUST903,Houston,Platinum
+CUST904,Phoenix,Platinum
+CUST905,Los Angeles,Bronze
+CUST906,Chicago,Platinum
+CUST907,San Antonio,Platinum
+CUST908,San Diego,Silver
+CUST909,Philadelphia,Silver
+CUST910,Philadelphia,Gold
+CUST911,Philadelphia,Platinum
+CUST912,Chicago,Gold
+CUST913,Dallas,Bronze
+CUST914,Philadelphia,Silver
+CUST915,San Diego,Bronze
+CUST916,Phoenix,Platinum
+CUST917,Houston,Silver
+CUST918,Los Angeles,Bronze
+CUST919,Phoenix,Platinum
+CUST920,Austin,Platinum
+CUST921,Houston,Silver
+CUST922,Philadelphia,Gold
+CUST923,Houston,Silver
+CUST924,San Diego,Platinum
+CUST925,San Diego,Gold
+CUST926,San Diego,Bronze
+CUST927,Los Angeles,Platinum
+CUST928,Dallas,Platinum
+CUST929,Houston,Silver
+CUST930,Austin,Gold
+CUST931,New York,Bronze
+CUST932,Phoenix,Platinum
+CUST933,Austin,Platinum
+CUST934,Phoenix,Bronze
+CUST935,Los Angeles,Platinum
+CUST936,Chicago,Gold
+CUST937,Philadelphia,Platinum
+CUST938,Philadelphia,Bronze
+CUST939,San Antonio,Bronze
+CUST940,Austin,Silver
+CUST941,Philadelphia,Gold
+CUST942,Los Angeles,Platinum
+CUST943,Dallas,Platinum
+CUST944,Dallas,Gold
+CUST945,Austin,Bronze
+CUST946,Chicago,Bronze
+CUST947,San Antonio,Gold
+CUST948,Philadelphia,Gold
+CUST949,Chicago,Silver
+CUST950,Austin,Platinum
+CUST951,Dallas,Bronze
+CUST952,New York,Bronze
+CUST953,Chicago,Gold
+CUST954,San Diego,Platinum
+CUST955,Chicago,Silver
+CUST956,Philadelphia,Gold
+CUST957,Chicago,Platinum
+CUST958,Austin,Gold
+CUST959,Austin,Gold
+CUST960,Dallas,Platinum
+CUST961,Austin,Gold
+CUST962,San Diego,Bronze
+CUST963,Philadelphia,Gold
+CUST964,Los Angeles,Platinum
+CUST965,Austin,Gold
+CUST966,New York,Platinum
+CUST967,Phoenix,Silver
+CUST968,New York,Platinum
+CUST969,Chicago,Platinum
+CUST970,Chicago,Silver
+CUST971,New York,Bronze
+CUST972,Houston,Bronze
+CUST973,San Diego,Gold
+CUST974,San Antonio,Silver
+CUST975,San Antonio,Silver
+CUST976,San Antonio,Platinum
+CUST977,New York,Silver
+CUST978,Dallas,Silver
+CUST979,Dallas,Gold
+CUST980,San Diego,Platinum
+CUST981,Philadelphia,Silver
+CUST982,San Diego,Gold
+CUST983,Dallas,Gold
+CUST984,Phoenix,Platinum
+CUST985,Houston,Silver
+CUST986,Phoenix,Gold
+CUST987,Houston,Gold
+CUST988,Phoenix,Silver
+CUST989,San Diego,Gold
+CUST990,San Diego,Gold
+CUST991,Dallas,Gold
+CUST992,Phoenix,Bronze
+CUST993,Austin,Platinum
+CUST994,San Antonio,Gold
+CUST995,Chicago,Gold
+CUST996,New York,Gold
+CUST997,Los Angeles,Gold
+CUST998,San Diego,Gold
+CUST999,San Diego,Silver
+CUST1000,Houston,Gold
